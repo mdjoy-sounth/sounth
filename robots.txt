@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mdjoy-sounth.github.io/sounth/sitemap.xml
